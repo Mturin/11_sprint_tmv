@@ -1,0 +1,6 @@
+import "../pages/index.css"
+import {Popup} from "./popup.js"
+import {addName, addLink} from "./variables.js"
+import {api} from "./api.js"
+import {userNameValidate, userJobValidate, cardNameValidate, cardLinkValidate} from "./validation.js"
+import {imageForm, editUserForm, userName, userJob, newUserName, newUserJob} from "./variables.js"
